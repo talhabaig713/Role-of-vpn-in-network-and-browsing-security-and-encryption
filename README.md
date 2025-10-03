@@ -2,7 +2,7 @@
 using free vpn to understand the working of vpn security
 # sign up for free vpn client
 <img width="1366" height="629" alt="Screenshot 2025-10-03 212958" src="https://github.com/user-attachments/assets/c33dd64e-16da-46a7-9391-8162fe558cb6" />
-# install or add extention of the browser
+#  install or add extention of the browser
 <img width="1171" height="635" alt="Screenshot 2025-10-03 213147" src="https://github.com/user-attachments/assets/dcc0a5cf-4b88-4a7e-aae3-8520922ccfa9" />
 <img width="1339" height="637" alt="Screenshot 2025-10-03 212038" src="https://github.com/user-attachments/assets/dd2cfd51-4468-4838-856f-ae40906b6417" />
 # connecting to fastest vpn available
